@@ -1,1 +1,2 @@
-# tentativa-login
+# Estudo
+## Script validando login e tentativas
